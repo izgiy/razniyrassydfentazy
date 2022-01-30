@@ -1,0 +1,167 @@
+body{font-style: italic;
+    background-color: rgb(63, 160, 25);
+    font-size: 20px;
+    color: gold;
+    font:"Arial" , "Helvetica" , "sans-serif" ;
+    background: linear-gradient(rgb(22, 134, 0), rgb(166, 233, 149));
+}
+header{margin: 0px 50px;
+height: 200px;
+width: 1125px;
+background-color: rgb(21, 58, 6);
+display: inline-block;
+color:gold;
+background:linear-gradient(#61ca6f,rgb(21, 58, 6)); overflow:hidden;
+			border-radius:0 0 15px 15px;
+        }
+.hello{padding: 50px;
+font-size: 25px;
+color:rgb(0, 0, 0));
+display: inline-block;
+text-align:center;
+text-shadow: #5dc8e5 0 0 10px;
+float:left;
+}
+main{width: 1125px;
+height: 1700px;
+background-color: rgb(21, 58, 6);
+margin: 25px 50px;
+background: linear-gradient(to right, rgb(21, 58, 6), rgb(49, 40, 40));
+}
+footer{width: 1125px;
+height: 200px;
+background-color: rgb(21, 58, 6);
+display: inline-block;
+margin: 0px 50px;
+background: linear-gradient(to right, rgb(35, 110, 5), rgb(32, 110, 45));
+}
+.circle1{width: 100px;
+height: 100px;
+border-radius: 50px;
+margin-top:50px;
+margin-left: 50px;
+display: inline-block;
+position: absolute;
+border-radius: 50px;
+border: solid 1px black;
+background-image: url(http://img10.joyreactor.cc/pics/post/art-красивые-картинки-art-барышня-Fantasy-2768612.jpeg);
+background-size: 100px 150px;
+position: top;
+cursor: pointer;
+    
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    
+    box-shadow: 0 3px 20px rgba(0,0,0,.25), inset 0 2px 0 rgba(255,255,255,.6), 0 2px 0 rgba(0,0,0,.1), inset 0 0 20px rgba(0,0,0,.1);
+    -moz-box-shadow: 0 3px 20px rgba(0,0,0,.25), inset 0 2px 0 rgba(255,255,255,.6), 0 2px 0 rgba(0,0,0,.1), inset 0 0 20px rgba(0,0,0,.1);
+    -webkit-box-shadow: 0 3px 20px rgba(0,0,0,.25), inset 0 2px 0 rgba(255,255,255,.6), 0 2px 0 rgba(0,0,0,.1), inset 0 0 20px rgba(0,0,0,.1);}
+.circle2{width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background-color: rgb(63, 160, 25);
+    margin-top:50px;
+    margin-left: 170px;
+    display: inline-block;
+    position: absolute;
+    border-radius: 50px;
+    border: solid 1px black;
+background-image: url(https://i.pinimg.com/originals/4d/32/a8/4d32a8a82d1e5f371db3f6ad0372a6ee.jpg);
+background-size: 100px 150px;
+background-position: top;
+cursor: pointer;
+    
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    
+    box-shadow: 0 3px 20px rgba(0,0,0,.25), inset 0 2px 0 rgba(255,255,255,.6), 0 2px 0 rgba(0,0,0,.1), inset 0 0 20px rgba(0,0,0,.1);
+    -moz-box-shadow: 0 3px 20px rgba(0,0,0,.25), inset 0 2px 0 rgba(255,255,255,.6), 0 2px 0 rgba(0,0,0,.1), inset 0 0 20px rgba(0,0,0,.1);
+    -webkit-box-shadow: 0 3px 20px rgba(0,0,0,.25), inset 0 2px 0 rgba(255,255,255,.6), 0 2px 0 rgba(0,0,0,.1), inset 0 0 20px rgba(0,0,0,.1);
+}
+.circle3{width: 100px;
+        height: 100px;
+        border-radius: 50px;
+        background-color: rgb(63, 160, 25);
+        margin-top:50px;
+        margin-left: 290px;
+        display: inline-block;
+        position: absolute;
+        border-radius: 50px;
+        border: solid 1px black;
+    background-image: url(https://avatars.mds.yandex.net/get-zen_doc/2369622/pub_602bad36f49918294000cf4e_602baf78f499182940062002/scale_1200);
+    background-size: 100px 100px;
+    background-position: center;
+    cursor: pointer;
+    
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    
+    box-shadow: 0 3px 20px rgba(0,0,0,.25), inset 0 2px 0 rgba(255,255,255,.6), 0 2px 0 rgba(0,0,0,.1), inset 0 0 20px rgba(0,0,0,.1);
+    -moz-box-shadow: 0 3px 20px rgba(0,0,0,.25), inset 0 2px 0 rgba(255,255,255,.6), 0 2px 0 rgba(0,0,0,.1), inset 0 0 20px rgba(0,0,0,.1);
+    -webkit-box-shadow: 0 3px 20px rgba(0,0,0,.25), inset 0 2px 0 rgba(255,255,255,.6), 0 2px 0 rgba(0,0,0,.1), inset 0 0 20px rgba(0,0,0,.1);
+}
+    .elf{background-image: url(https://vsthemes.org/uploads/olives/love580s2/aa/9faa088ac01c0670c3e449ee99cfd44a.jpg);
+    background-repeat: no-repeat;
+    display: inline-block;
+    float: left;
+width: 600px;
+height: 500px;
+margin: 25px 25px;
+box-shadow: inset 0 0 6px;}
+    .gnom{background-image: url(https://yobte.ru/uploads/posts/2019-11/gnomiha-42-foto-10.jpg);
+    display:inline-block;
+    float:right;
+    width: 600px;
+    height: 600px;
+background-repeat: no-repeat;
+margin: 25px 25px;
+box-shadow: inset 0 0 6px;}
+    .ork{background-image: url(https://i.pinimg.com/736x/17/b4/35/17b4351230ebf16b15a0f528eaa07c1d.jpg);
+    display: inline-block;
+    float: left;
+    width: 400px;
+    height: 580px;
+    margin: 25px 25px;
+background-repeat: no-repeat;
+position: right;
+box-shadow: inset 0 0 6px;}
+p{margin: 25px 1px;
+    text-indent: 50px;
+    text-shadow: #5dc8e5 0 0 10px; 
+padding-left: 50px;}
+.circle1:hover {
+    box-shadow: inset 0 0 20px rgba(0,0,0,.2), 0 2px 0 rgba(255,255,255,.4),inset 0 2px 0 rgba(0,0,0,.1), inset 0 0 20px rgba(0,0,0,.1);
+    -moz-box-shadow: inset 0 0 20px rgba(0,0,0,.2), 0 2px 0 rgba(255,255,255,.4),inset 0 2px 0 rgba(0,0,0,.1), inset 0 0 20px rgba(0,0,0,.1);
+    -webkit-box-shadow: inset 0 0 20px rgba(0,0,0,.2), 0 2px 0 rgba(255,255,255,.4),inset 0 2px 0 rgba(0,0,0,.1), inset 0 0 20px rgba(0,0,0,.1);}
+    .circle2:hover {
+        box-shadow: inset 0 0 20px rgba(0,0,0,.2), 0 2px 0 rgba(255,255,255,.4),inset 0 2px 0 rgba(0,0,0,.1), inset 0 0 20px rgba(0,0,0,.1);
+        -moz-box-shadow: inset 0 0 20px rgba(0,0,0,.2), 0 2px 0 rgba(255,255,255,.4),inset 0 2px 0 rgba(0,0,0,.1), inset 0 0 20px rgba(0,0,0,.1);
+        -webkit-box-shadow: inset 0 0 20px rgba(0,0,0,.2), 0 2px 0 rgba(255,255,255,.4),inset 0 2px 0 rgba(0,0,0,.1), inset 0 0 20px rgba(0,0,0,.1);}
+        .circle3:hover {
+            box-shadow: inset 0 0 20px rgba(0,0,0,.2), 0 2px 0 rgba(255,255,255,.4),inset 0 2px 0 rgba(0,0,0,.1), inset 0 0 20px rgba(0,0,0,.1);
+            -moz-box-shadow: inset 0 0 20px rgba(0,0,0,.2), 0 2px 0 rgba(255,255,255,.4),inset 0 2px 0 rgba(0,0,0,.1), inset 0 0 20px rgba(0,0,0,.1);
+            -webkit-box-shadow: inset 0 0 20px rgba(0,0,0,.2), 0 2px 0 rgba(255,255,255,.4),inset 0 2px 0 rgba(0,0,0,.1), inset 0 0 20px rgba(0,0,0,.1);}
+h2{margin: 25px 25px;
+    text-indent: 50px;
+    text-shadow: #5dc8e5 0 0 10px;}
+    ul,li{
+        list-style-type: none;
+        text-shadow: #5dc8e5 0 0 10px;
+    text-align: right;}
+        a:active, /* активная/посещенная ссылка */
+a:hover,  /* при наведении */
+a{
+  text-decoration: none;
+  color: rgb(255, 230, 0);
+}
+.end{text-align: center;
+    vertical-align: middle;
+    text-shadow: #5dc8e5 0 0 10px;
+    text-decoration: underline;
+font-size: 30px;}
+a{z-index: 1;
+display: inline-block;}
+.ending{margin-right: 200px;
+margin-top: 100px;}
